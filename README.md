@@ -16,3 +16,15 @@
 [![](https://komarev.com/ghpvc/?username=abdelhamideltwab&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+
+
+![Snake animation](https://raw.githubusercontent.com/abdelhamideltwab/abdelhamideltwab/output/dist/github-contribution-grid-snake-dark.svg)
+
+
+
+</div>
